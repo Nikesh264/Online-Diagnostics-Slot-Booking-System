@@ -7,22 +7,22 @@ The project uses basic Python data structures and file handling with .csv files 
 
 Features:-
 
-1. User Functions:
+1. User Functions:-
 
-Register and log in, 
-View available slots, 
-Book and cancel appointments, 
-View their own bookings
+  Register and log in, 
+  View available slots, 
+  Book and cancel appointments, 
+  View their own bookings
 
-2. Admin Functions:
+2. Admin Functions:-
 
-Add and remove slots, 
-View all slots, 
-Manage users and their bookings
+  Add and remove slots, 
+  View all slots, 
+  Manage users and their bookings
 
-3. File Structure : 
-1.) slots.csv: Stores slot information (date, time, booked status, and user).
-2.) users.csv: Stores user information (username, password, and bookings).
+3. File Structure :- 
+  1.) slots.csv: Stores slot information (date, time, booked status, and user).
+  2.) users.csv: Stores user information (username, password, and bookings).
 
-4. Prerequisites
-Python 3.x installed on your system.
+4. Prerequisites :-
+  Python 3.x installed on your system.
