@@ -9,20 +9,20 @@ Features:-
 
 1. User Functions:
 
-Register and log in
-View available slots
-Book and cancel appointments
+Register and log in, 
+View available slots, 
+Book and cancel appointments, 
 View their own bookings
 
 2. Admin Functions:
 
-Add and remove slots
-View all slots
+Add and remove slots, 
+View all slots, 
 Manage users and their bookings
 
 * File Structure
-slots.csv: Stores slot information (date, time, booked status, and user).
-users.csv: Stores user information (username, password, and bookings).
+1.) slots.csv: Stores slot information (date, time, booked status, and user).
+2.) users.csv: Stores user information (username, password, and bookings).
 
 * Prerequisites
 Python 3.x installed on your system.
