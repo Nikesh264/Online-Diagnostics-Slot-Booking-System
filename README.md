@@ -20,9 +20,9 @@ Add and remove slots,
 View all slots, 
 Manage users and their bookings
 
-* File Structure
+3. File Structure : 
 1.) slots.csv: Stores slot information (date, time, booked status, and user).
 2.) users.csv: Stores user information (username, password, and bookings).
 
-* Prerequisites
+4. Prerequisites
 Python 3.x installed on your system.
